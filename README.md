@@ -1,1 +1,2 @@
-# Amazone_clone
+# Amazon_clone
+Amazon landing page.
