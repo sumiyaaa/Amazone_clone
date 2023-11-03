@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;  
+    /* we can't use margin and padding in inline display  */
+    /*  margin and padding work in  in inline block  */
+    /* display none not show the space and other element take their place  */
+    /* but visibility hidden show the space of invisible element  */
+}
